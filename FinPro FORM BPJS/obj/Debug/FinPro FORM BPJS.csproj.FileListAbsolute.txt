@@ -1,0 +1,14 @@
+D:\Kuliah\Amikom\Semester 3\Pemrograman Lanjut\UAS\FinPro FORM BPJS\FinPro FORM BPJS\bin\Debug\FinPro FORM BPJS.exe.config
+D:\Kuliah\Amikom\Semester 3\Pemrograman Lanjut\UAS\FinPro FORM BPJS\FinPro FORM BPJS\bin\Debug\FinPro FORM BPJS.exe
+D:\Kuliah\Amikom\Semester 3\Pemrograman Lanjut\UAS\FinPro FORM BPJS\FinPro FORM BPJS\bin\Debug\FinPro FORM BPJS.pdb
+D:\Kuliah\Amikom\Semester 3\Pemrograman Lanjut\UAS\FinPro FORM BPJS\FinPro FORM BPJS\obj\Debug\FinPro FORM BPJS.csprojAssemblyReference.cache
+D:\Kuliah\Amikom\Semester 3\Pemrograman Lanjut\UAS\FinPro FORM BPJS\FinPro FORM BPJS\obj\Debug\FinPro_FORM_BPJS.Properties.Resources.resources
+D:\Kuliah\Amikom\Semester 3\Pemrograman Lanjut\UAS\FinPro FORM BPJS\FinPro FORM BPJS\obj\Debug\FinPro FORM BPJS.csproj.GenerateResource.cache
+D:\Kuliah\Amikom\Semester 3\Pemrograman Lanjut\UAS\FinPro FORM BPJS\FinPro FORM BPJS\obj\Debug\FinPro FORM BPJS.csproj.CoreCompileInputs.cache
+D:\Kuliah\Amikom\Semester 3\Pemrograman Lanjut\UAS\FinPro FORM BPJS\FinPro FORM BPJS\obj\Debug\FinPro FORM BPJS.exe
+D:\Kuliah\Amikom\Semester 3\Pemrograman Lanjut\UAS\FinPro FORM BPJS\FinPro FORM BPJS\obj\Debug\FinPro FORM BPJS.pdb
+D:\Kuliah\Amikom\Semester 3\Pemrograman Lanjut\UAS\FinPro FORM BPJS\FinPro FORM BPJS\obj\Debug\FinPro_FORM_BPJS.login.resources
+D:\Kuliah\Amikom\Semester 3\Pemrograman Lanjut\UAS\FinPro FORM BPJS\FinPro FORM BPJS\obj\Debug\FinPro_FORM_BPJS.Home.resources
+D:\Kuliah\Amikom\Semester 3\Pemrograman Lanjut\UAS\FinPro FORM BPJS\FinPro FORM BPJS\obj\Debug\FinPro_FORM_BPJS.Forms.FormInput.resources
+D:\Kuliah\Amikom\Semester 3\Pemrograman Lanjut\UAS\FinPro FORM BPJS\FinPro FORM BPJS\obj\Debug\FinPro_FORM_BPJS.Forms.FormHasil.resources
+D:\Kuliah\Amikom\Semester 3\Pemrograman Lanjut\UAS\FinPro FORM BPJS\FinPro FORM BPJS\obj\Debug\FinPro_FORM_BPJS.Forms.Form_Update.resources
